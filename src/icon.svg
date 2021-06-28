@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1080px" height="1080px" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>thumb white</title>
+    <g id="thumb-white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="1080" height="1080"></rect>
+        <g id="Group-15" transform="translate(270.000000, 304.000000)">
+            <polygon id="Rectangle-Copy-12" fill="#4E15ED" points="41.7411673 266.553191 491.091158 266.553191 463.579934 468.765957 5.05953543 468.765957"></polygon>
+            <polygon id="Rectangle-Copy-12" fill="#FF007B" points="87.5932071 0 536.943197 0 509.431973 202.212766 50.9115752 202.212766"></polygon>
+        </g>
+    </g>
+</svg>
